@@ -1,40 +1,17 @@
-# 💡 Project Ideas: Dart + Flutter Practice
+**Project Ideas: Dart + Flutter**
 
-A growing list of app ideas inspired by my learning journey through Educative and beyond. Each one reinforces key Dart or Flutter concepts.
-
----
-
-## 🔸 Beginner Projects (Weeks 1–2)
-- ✅ **BMI Calculator CLI App**
-  - Use `input`, `double`, and basic arithmetic
-  - Practice control flow with if–else
-
-- 📌 **Simple Interest Calculator**
-  - Console input for `principal`, `rate`, and `time`
-  - Reinforces operators and type handling
+App ideas to reinforce what I'm learning, step by step.
 
 ---
 
-## 🔸 Intermediate Projects (Weeks 3–4)
-- 📝 **To-Do List App**
-  - Flutter-based UI
-  - Practice with lists, setState, and basic state management
+**Foundation Builders (Dart Practice)**
+- 🧮 BMI Calculator – input and conditionals
 
-- 🎲 **Dice Roller**
-  - Random number generation and conditional logic
-  - Great for exploring Dart’s built-in libraries
+**Flutter Starters (UI Exploration)**
+- 📝 To-Do List – build a simple app with setState
+- 🎲 Dice Roller – randomness and interaction
+- 📅 Day Planner – organize tasks using lists/maps
 
-- 📅 **Day Planner**
-  - Use Dart collections to manage and sort tasks by date
-  - Reinforces list/map handling
-
----
-
-## 🔸 Stretch Projects (Post-course)
-- 🛒 **Mini Shopping Cart**
-  - Add/remove items, calculate totals
-  - Great for object-oriented programming and custom classes
-
-- 🌦️ **Simple Weather UI**
-  - Build a clean Flutter interface with mock data
-  - Practice layout and widget nesting
+**Challenge Zone (For After the Course)**
+- 🛒 Shopping Cart – item management with classes
+- 🌦️ Weather UI – layout and widget design with mock data
